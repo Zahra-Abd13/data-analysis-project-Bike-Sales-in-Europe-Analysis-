@@ -23,7 +23,7 @@ All visualisations are built with **Plotly** and are fully interactive when run 
 ## 🗂️ Repository Structure
 
 ```
-├── Bike_Sales_Europe_Analysis_Improved.ipynb   # Main analysis notebook
+├── Bike_Sales_Europe_Analysis.ipynb   # Main analysis notebook
 ├── sales.csv                                    # Source dataset (18 columns)
 ├── requirements.txt                             # Python dependencies
 └── README.md                                    # This file
@@ -99,7 +99,7 @@ pip install pandas numpy plotly matplotlib seaborn jupyter
 
 **3. Launch the notebook**
 ```bash
-jupyter notebook Bike_Sales_Europe_Analysis_Improved.ipynb
+jupyter notebook Bike_Sales_Europe_Analysis.ipynb
 ```
 
 > ⚠️ Make sure `sales.csv` is in the same directory as the notebook before running all cells.
