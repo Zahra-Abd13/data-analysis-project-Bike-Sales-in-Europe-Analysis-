@@ -83,7 +83,7 @@ All visualisations are built with **Plotly** and are fully interactive when run 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Zahra-Abd13/data-analysis-project-Bike-Sales-in-Europe-Analysis-.git
+git clone https://github.com/Zahra-Abd13/bike-sales-europe-eda.git
 cd bike-sales-europe-eda
 ```
 
